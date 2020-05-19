@@ -10,11 +10,9 @@ Then a couple of days ago we were making a Frozen cake for my sister, so I ended
 
 It's our friends birthday today, so we're ending up seeing them for the __second day in a row__ (yay!) and yet alone more presents are being wrapped.
 
-![mud kitchen]
-(/assets/mud-kitchen.jpg)
+![mud kitchen](/assets/mud-kitchen.jpg)
 
-![frozen cake]
-(/assets/frozen-cake.jpg)
+![frozen cake](/assets/frozen-cake.jpg)
 
 Goodbye for now!
 
