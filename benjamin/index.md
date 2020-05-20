@@ -1,6 +1,6 @@
 # Benjamin
 
-[Home](/)
+[Home](/) [Github profile](https://github.com/benjamin-wilkins)
 
 Here are some of my blog posts:
 
