@@ -12,6 +12,8 @@ Then we've been playing in my sister's mud kitchen (it's surprising how fun it i
 
 I've been programming (a bit) and looking through github (like facebook but for programming) for something interesting (a lot). Oh, and been doing markdown (a programming language to create documents (that's what this is written in by the way)) to write blog posts.
 
+I've just realized how much I like brackets (or at least how much I use them)!
+
 So that's all I have time to write as it's lunch soon, so goodbye for now!
 
 Benjamin
