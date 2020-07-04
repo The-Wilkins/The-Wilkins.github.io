@@ -1,6 +1,6 @@
 # Writing a Book
 
-[Benjamin](/benjamin) 4th June 2020
+[Benjamin](/benjamin) 4th July 2020
 
 I've been writing a book over the past weeks called '*Treasure in hiding*'. I'm sorry I have not written on the blog for a few days.
 
