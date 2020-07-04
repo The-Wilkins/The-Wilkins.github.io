@@ -6,3 +6,4 @@ These are all our blog posts:
 * [Emoji!](/benjamin/emoji-22-5-2020) *by [Benjamin](/benjamin)*
 * [Stuff](/benjamin/stuff-29-5-2020) *by [Benjamin](/benjamin)*
 * [Hello!](/eloise/hello-30-5-2020) *by [Eloise](/eloise)*
+* [I'm Writing a Book!](/benjamin/writing-a-book-04-07-2020.md) *by [Benjamin](/benjamin)*
