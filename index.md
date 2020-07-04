@@ -7,3 +7,4 @@ Welcome to our family blog.
 [Browse all](/all) or browse by author:
 * [Benjamin](/benjamin) *[Github profile](https://github.com/benjamin-wilkins)*
 * [Eloise](/eloise)
+* [Josiah](/josiah)
