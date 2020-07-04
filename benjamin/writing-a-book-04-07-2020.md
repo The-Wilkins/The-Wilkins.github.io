@@ -8,7 +8,7 @@ Read the book [here](https://benjamin-wilkins.github.io/treasure-in-hiding).
 
 It has not been completed yet so the website will be updated. Observant people may note that the theme color of the blog and the theme color of the book website are the same - this is intentional, I copied the color code :wink:
 
-Mose code from last week - "Hello"
+Mose code from last post - "Hello"
 
 Goodbye,
 
