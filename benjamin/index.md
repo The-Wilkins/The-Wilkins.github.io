@@ -9,7 +9,7 @@ My coding projects:
 
 Books:
 
-* [Treasure in Hiding](benjamin-wilkins.github.io/treasure-in-hiding)
+* [Treasure in Hiding](https://benjamin-wilkins.github.io/treasure-in-hiding)
 
 Here are some of my blog posts:
 
