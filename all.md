@@ -7,3 +7,4 @@ These are all our blog posts:
 * [Stuff](/benjamin/stuff-29-5-2020) *by [Benjamin](/benjamin)*
 * [Hello!](/eloise/hello-30-5-2020) *by [Eloise](/eloise)*
 * [I'm Writing a Book!](/benjamin/writing-a-book-04-07-2020.md) *by [Benjamin](/benjamin)*
+* [Morse Code](/josiah/morse-code-04-07-2020) *by [Josiah](/josiah)*
