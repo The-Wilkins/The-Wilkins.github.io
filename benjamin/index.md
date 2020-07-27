@@ -17,4 +17,5 @@ Here are some of my blog posts:
 * [Playing, Schoolwork and What Else?](/benjamin/playing-schoolwork-and-what-else-20-5-2020)
 * [Emoji!](/benjamin/emoji-22-5-2020)
 * [Stuff](/benjamin/stuff-29-5-2020)
-* [I'm Writing a Book!](/benjamin/writing-a-book-04-07-2020.md)
+* [I'm Writing a Book!](/benjamin/writing-a-book-04-07-2020)
+* [We Built a Computer!](/benjamin/built-a-computer-27-7-2020)
